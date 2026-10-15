@@ -12,5 +12,7 @@ public class Variavel {
 		char letra = 'A';
 		boolean ativo = true;
 		
+		
+		System.out.println("teste");
 	}
 }
