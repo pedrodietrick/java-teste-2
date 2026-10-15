@@ -13,6 +13,6 @@ public class Variavel {
 		boolean ativo = true;
 		
 		
-		System.out.println("teste");
+		System.out.println("tes te");
 	}
 }
