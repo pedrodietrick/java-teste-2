@@ -1,8 +1,11 @@
 package variaveistipoeoperador;
 
+
+
 public class TiposPrimitivos {
 	public static void main(String[] args) {
 		
+
 		byte idade = 20;
 		short codigo = 1000;
 		int quantidade = 50000;
@@ -12,5 +15,12 @@ public class TiposPrimitivos {
 		char letra = 'A';
 		boolean ativo = true;
 
+
+		double valor = (10 + 5) * 2;
+		
+		System.out.println("Resultado: " + valor);
+
 	}
+	
+	
 }
