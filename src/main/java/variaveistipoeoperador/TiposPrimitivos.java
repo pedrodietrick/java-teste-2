@@ -11,5 +11,6 @@ public class TiposPrimitivos {
 		double altura = 1.76;
 		char letra = 'A';
 		boolean ativo = true;
+
 	}
 }
