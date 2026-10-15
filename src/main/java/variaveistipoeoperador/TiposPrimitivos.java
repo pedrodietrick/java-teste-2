@@ -7,7 +7,7 @@ public class TiposPrimitivos {
 		
 		double valor = (10 + 5) * 2;
 		
-		System.out.println("resultado: " + valor);
+		System.out.println("Resultado: " + valor);
 	}
 	
 	
