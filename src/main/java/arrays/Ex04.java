@@ -15,5 +15,11 @@ public class Ex04 {
 			valores[i] = scanner.nextInt();
 		}
 		
+		System.out.println("===============");
+		System.out.println("Valores digitados: ");
+		
+		for (int n : valores) {
+			System.out.println(n);
+		}
 	}
 }
