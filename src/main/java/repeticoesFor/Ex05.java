@@ -10,13 +10,15 @@ public class Ex05 {
 		
 		List<Integer> notas = new ArrayList<Integer>();
 		int nota = 0;
+		int contador = 1;
 		System.out.println("Informe o -1 para sair do sistema: ");
 		
 		while (nota != -1) {
 			System.out.println("Informe a nota: ");
 			nota = scanner.nextInt();
-			if(nota >=0) {
+			if(nota >= 0) {
 			notas.add(nota);
+			contador ++;
 			}
 		}
 		scanner.close();
