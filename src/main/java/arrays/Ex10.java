@@ -29,7 +29,7 @@ public class Ex10 {
 			}
 			
 		}
-		System.out.println("soma: " + soma);
+		System.out.println("soma: " + soma); 
 		
 	}
 }
